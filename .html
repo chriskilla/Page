@@ -94,7 +94,7 @@
     </header>
 
     <nav class="nav-bar">
-        <a href="file:///C:/Users/Melvyn/Documents/HTML%20Site%20ChatGPT/index.html">Accueil</a>
+        <a href="C:\Users\Melvyn\Downloads\logo site.PNG">Accueil</a>
         <a href="#section1">Biographie</a>
         <a href="#section2">Passions</a>
     </nav>
@@ -103,13 +103,13 @@
         <div class="content-block" id="section1">
             <h2>Biographie</h2>
             <p>nightwariz est un joueur Rocket League (champion 3), Fortnite (diamant 1) et Brawl Stars (Mythique 2) qui fait découvrir ses passions pour un jour, peut-être, devenir un grand Youtubeur !!.</p>
-            <img src="file:///C:/Users/Melvyn/Downloads/E%202024-12-16%2011.27.25%20-%20A%20bold%20and%20modern%20logo%20design%20with%20a%20space-themed%20background%20featuring%20stars,%20glowing%20nebulae,%20and%20vibrant%20shades%20of%20blue%20and%20purple.%20At%20the%20center,%20t.webp" alt="Description de l'image 1">
+            <img src="C:\Users\Melvyn\Downloads\logo site.PNG" alt="Description de l'image 1">
         </div>
 
         <div class="content-block" id="section2">
             <h2>Passions et divertissement</h2>
             <p>Il joue à Rocket League (champion 3), Fortnite (diamant 1) et Brawl Stars (Mythique 2) et veut partager cela avec ses abonnés.</p>
-            <img src="file:///C:/Users/Melvyn/Downloads/tkt.PNG" alt="Description de l'image 2">
+            <img src="C:/Users/Melvyn/Downloads/tkt.PNG" alt="Description de l'image 2">
         </div>
     </div>
 
