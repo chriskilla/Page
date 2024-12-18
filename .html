@@ -103,13 +103,13 @@
         <div class="content-block" id="section1">
             <h2>Biographie</h2>
             <p>nightwariz est un joueur Rocket League (champion 3), Fortnite (diamant 1) et Brawl Stars (Mythique 2) qui fait découvrir ses passions pour un jour, peut-être, devenir un grand Youtubeur !!.</p>
-            <img src="C:\Users\Melvyn\Downloads\logo site.PNG" alt="Description de l'image 1">
+            <img src="C:\Users\Melvyn\Downloads\logo site.PNG" alt="C:\Users\Melvyn\Downloads\logo site.PNG">
         </div>
 
         <div class="content-block" id="section2">
             <h2>Passions et divertissement</h2>
             <p>Il joue à Rocket League (champion 3), Fortnite (diamant 1) et Brawl Stars (Mythique 2) et veut partager cela avec ses abonnés.</p>
-            <img src="C:/Users/Melvyn/Downloads/tkt.PNG" alt="Description de l'image 2">
+            <img src="C:/Users/Melvyn/Downloads/tkt.PNG" alt="C:/Users/Melvyn/Downloads/tkt.PNG">
         </div>
     </div>
 
