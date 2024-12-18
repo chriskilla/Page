@@ -89,7 +89,7 @@
     </header>
 
     <nav class="nav-bar">
-        <a href="#">Accueil</a>
+        <a href="https://chriskilla.github.io/nightwariz/" target="_blank">Accueil</a>
         <a href="#section1">Biographie</a>
         <a href="#section2">Passions</a>
     </nav>
